@@ -1,2 +1,1 @@
-# HannaCV
-mitt cv 
+LAB 2 ! 
